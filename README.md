@@ -10,3 +10,6 @@ Place where passionate about artificial intelligence, machine learning and chatb
 ### Slots
 [Slots Tutorial Part I  (English)](https://youtu.be/mrHgLCNraf8)  
 [Slots Tutorial Part II (English)](https://youtu.be/kMLyKfmO9wI)
+
+### Dialog
+[Advanced dialog tutorial](https://youtu.be/Z_vmzC0tu60)
