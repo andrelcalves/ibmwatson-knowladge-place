@@ -13,3 +13,6 @@ Place where passionate about artificial intelligence, machine learning and chatb
 
 ### Dialog
 [Advanced dialog tutorial](https://youtu.be/Z_vmzC0tu60)
+
+### Itent Conflit (New feature available only for premium plans)
+[Watson Assistant Intent Conflict Resolution](https://youtu.be/9gQtjCBxjdc)
